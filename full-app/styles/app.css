@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Luxurious+Roman&family=Saira+Condensed:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+    font-size: larger;
+}
+.navigation_bar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Luxurious Roman', cursive;
+    font-weight: bold;
+}
+.logo_img{
+    width: 150px;
+}
+.date_section{
+    margin-top: 30px;
+    font-size: larger;
+}
+.user_profile_section{
+    display: flex;
+    justify-content: space-evenly;
+    height: fit-content;
+    width: 120px;
+    margin-top: 20px;
+}
+.crud{
+    margin-top: 30px;
+    width: 750px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: larger;
+}
+.crud .btn{
+    width: 170px;
+}
+
+.user_profile_img{
+    width: 60px;
+    height: 60px;
+    border: 3px solid;
+    border-radius: 50%;
+    background: url(/images/eye-for-ebony-vYpbBtkDhNE-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.links{
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    right: 50px;
+    
+}
+.link{
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+}
+.table{
+    font-size: xx-large;
+}
+.main_content, .alert_div{
+    font-family: 'Saira Condensed', sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+.alert_div-modal{
+    display: none;
+}
+.alert_div-modal-show{
+    display: block;
+}
+.chart-div{
+    height: 300px;
+    width: 100%;
+}

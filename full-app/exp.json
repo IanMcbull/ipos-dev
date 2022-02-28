@@ -1,0 +1,16 @@
+[
+    {
+        "amount": 250,
+        "category": "Sales",
+        "day": "Wednesday",
+        "name": "CHICKEN QT",
+        "quantity": 1
+    },
+    {
+        "amount": 300,
+        "category": "Expenses",
+        "day": "Thursday",
+        "name": "Tokens",
+        "quantity": 1
+    }
+]
