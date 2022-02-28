@@ -1,0 +1,126 @@
+[
+    {
+      "product_name": "CHIPS",
+      "price": 50
+    },
+    {
+      "product_name":"CHIPS FULL",
+      "price":100
+    },
+    {
+      "product_name": "SMOKIE",
+      "price": 30
+    },
+    {
+      "product_name": "SAUSAGE",
+      "price": 40
+    },
+    {
+      "product_name": "MANDAZI",
+      "price": 5
+    },
+    {
+      "product_name": "SAMOSA",
+      "price": 40
+    },
+    {
+      "product_name": "PILAU",
+      "price": 80
+    },
+    {
+      "product_name": "BOILED EGGS",
+      "price": 20
+    },
+    {
+      "product_name": "CHAPATI BEANS",
+      "price": 70
+    },
+    {
+      "product_name": "CHAPATI NDENGU",
+      "price": 70
+    },
+    {
+      "product_name": "RICE BEANS",
+      "price": 70
+    },
+    {
+      "product_name": "UGALI CABBAGE",
+      "price": 50
+    },
+    {
+      "product_name": "RICE NDENGU",
+      "price": 70
+    },
+    {
+      "product_name":"CHAPATI",
+      "price": 20
+    },
+    {
+      "product_name": "CHAPO BEANS",
+      "price":70
+    },
+    {
+      "product_name": "CHAPO NDENGU",
+      "price":70
+    },
+    {
+      "product_name": "RICE BEANS",
+      "price":80
+    },
+    {
+      "product_name": "CHAPO NDENGU",
+      "price":80
+    },
+    {
+      "product_name": "RICE NJAHI",
+      "price":80
+    },
+    {
+      "product_name": "UGALI BEEF",
+      "price": 180
+    },
+    {
+      "product_name": "UGALI MATUMBO",
+      "price": 100
+    },
+    {
+      "product_name": "CHICKEN QT",
+      "price": 250
+    },
+    {
+      "product_name": "CHICKEN HALF",
+      "price": 500
+    },
+    {
+      "product_name": "SANDWICH",
+      "price": 20
+    },
+    {
+      "product_name": "CHICKEN FULL",
+      "price": 1000
+    },
+    {
+      "product_name": "TEA",
+      "price": 20
+    },
+    {
+      "product_name": "COFFEE",
+      "price": 20
+    },
+    {
+      "product_name": "SODA",
+      "price": 40
+    },
+    {
+      "product_name": "WATER",
+      "price": 30
+    },
+    {
+     "product_name": "MINUTE MAID",
+      "price": 70
+    },
+    {
+      "product_name": "MILK",
+      "price": 40
+    }
+  ]
